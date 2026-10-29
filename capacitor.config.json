@@ -1,0 +1,11 @@
+{
+  "appId": "com.hesflix.app",
+  "appName": "HESFLIX",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https",
+    "allowNavigation": ["hesflix.vercel.app", "*.vercel.app"],
+    "errorPath": "offline.html"
+  },
+  "backgroundColor": "#000000"
+}
